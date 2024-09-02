@@ -1,0 +1,12 @@
+---
+# vars file for webserver
+users:
+  - Arun
+  - Anju
+  - Nibin
+  - melbin
+  - Amal
+
+pack_1: httpd
+ser_1: httpd
+rul_1: http
